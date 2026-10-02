@@ -7,7 +7,7 @@ I build full-stack applications, AI-powered developer tools, and backend systems
 * 🔭 Currently building: **[SyncSpace](https://github.com/Abhishek-Kr-Saw/syncspace)** — an AI-powered development environment where an agent creates and edits sandboxed projects
 * 🤖 Exploring: **AI agents, agent orchestration, sandboxed environments, and developer tooling**
 * 🌱 Currently learning: **System design and scalable backend architecture**
-* 💼 Open to: **SDE-1 / Full-Stack roles and internships**
+* 💼 Open to: **SDE-1 / Full-Stack roles**
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/-React-20232a?logo=react)
