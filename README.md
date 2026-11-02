@@ -4,9 +4,9 @@
 
 I build full-stack applications, AI-powered developer tools, and backend systems using JavaScript, React, Node.js, Docker, and Kubernetes.
 
-* 🔭 Currently building: **[SyncSpace](https://github.com/Abhishek-Kr-Saw/syncspace)** — an AI-powered development environment where an agent creates and edits sandboxed projects
+* 🚀 Recently built: **[SyncSpace](https://github.com/Abhishek-Kr-Saw/syncspace)** — an AI-powered development environment where an agent creates and edits sandboxed projects
 * 🤖 Exploring: **AI agents, agent orchestration, sandboxed environments, and developer tooling**
-* 🌱 Currently learning: **System design and scalable backend architecture**
+* 🌱 Currently learning: **System design — scalable backend architecture, distributed systems, and trade-offs at scale**
 * 💼 Open to: **SDE-1 / Full-Stack roles**
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
@@ -18,7 +18,7 @@ I build full-stack applications, AI-powered developer tools, and backend systems
 
 ---
 
-## 🚀 What I'm Building
+## ⭐ Flagship Project
 
 ### 🔹 [SyncSpace](https://github.com/Abhishek-Kr-Saw/syncspace)
 
@@ -26,7 +26,7 @@ An AI-powered development environment where users create and modify projects thr
 
 `React` `Node.js` `LangGraph` `Docker` `Kubernetes` `Socket.IO` `REST APIs`
 
-Each project runs in its own sandbox with AI-driven file operations, a real terminal, and a live preview.
+Each project runs in its own sandbox with AI-driven file operations, a real terminal, and a live preview. Built as a microservice monorepo (auth, AI orchestration, notifications, sandbox runtime) and deployed with Docker, Kubernetes, and Skaffold.
 
 ---
 
@@ -49,6 +49,12 @@ Each project runs in its own sandbox with AI-driven file operations, a real term
 `React` `Redux Toolkit` `Node.js` `MongoDB`
 
 More in [Abhishek-Kr-Saw/Projects](https://github.com/Abhishek-Kr-Saw/Projects).
+
+---
+
+## 📚 Currently Learning
+
+**System design** — scalable backend architecture, caching, load balancing, message queues, database scaling, and designing systems end to end.
 
 ---
 
